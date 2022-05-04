@@ -1,5 +1,4 @@
 import sys
-from tkinter.font import names
 import PyPDF2
 import csv
 sys.stdout=open('output.txt','w',encoding='utf-8')
